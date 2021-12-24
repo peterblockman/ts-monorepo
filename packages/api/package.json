@@ -1,0 +1,22 @@
+{
+  "name": "@peterblockman/api",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "peterblockman <vietvu.hcm@gmail.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/api.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "tsc": "tsc",
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+  }
+}
